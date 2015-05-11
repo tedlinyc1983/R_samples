@@ -1,0 +1,7 @@
+base: IO
+stats: t.test, anova
+methods: classes of objects
+utils: 
+graphics: boxplot, plot, line
+grDevices:
+datasets:
